@@ -1,0 +1,22 @@
+{
+  "name": "angular_jwts2",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "FRSCO <frscollo@hotmail.it>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/francesco75/angularjwts2",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "angular": "^1.6.9",
+    "angular-route": "^1.6.9"
+  }
+}
